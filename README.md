@@ -39,8 +39,8 @@ or
 ***
 This project is part of an internship provided by Ethnus
 The group members of the project are:
-- Kushal Dube (20BCE10488)
-- Naman Hiran (20BCE10502)
-- Animesh Anant (20BCE10474)
-- Aryaman Mishra (20BCE10475)
+1. Pooja E(23BIT0351)
+2. Lalith Kumar(22BCE9430)
+3. Jeswanth(22BCE8740)
+4. Sneha Dey(22BCE1971)
 ***
