@@ -1,6 +1,5 @@
 # Ticket-Support-System
 Support ticket application built with the MERN stack. <br>
-Visit the hosted website at: https://weak-ruby-cape-buffalo-sari.cyclic.app/
 
 ### Tech stack
 - MongoDB
