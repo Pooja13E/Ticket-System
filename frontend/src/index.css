@@ -117,9 +117,10 @@ h3 {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
   color: #ffffff;
-  font-size: 20px;
   background: #FCAEAE;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
