@@ -10,7 +10,7 @@ function Home() {
     <>
     <Intro />
       <section className="heading">
-        <h1>VIT Bhopal Support Ticket System</h1>
+        <h1>VIT Support Ticket System</h1>
         <p><em>Have a problem with factilities at VIT Bhopal? Create a support ticket now!</em></p>
       </section>
       <div className="home--buttons">
